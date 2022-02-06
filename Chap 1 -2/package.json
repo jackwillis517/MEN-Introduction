@@ -1,0 +1,22 @@
+{
+  "name": "men-introduction",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000E\u0000N\u0000-\u0000I\u0000n\u0000t\u0000r\u0000o\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackwillis517/MEN-Introduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackwillis517/MEN-Introduction/issues"
+  },
+  "homepage": "https://github.com/jackwillis517/MEN-Introduction#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
